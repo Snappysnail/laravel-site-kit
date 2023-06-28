@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Snappysnail\LaravelSiteKit\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelSiteKitCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-site-kit';
 
     public $description = 'My command';
 

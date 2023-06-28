@@ -9,3 +9,8 @@ phpstan.neon
 testbench.yaml
 vendor
 node_modules
+# SublimeText Project
+*.sublime-project
+*.sublime-workspace
+# Custom logs
+/storage/logs/*
