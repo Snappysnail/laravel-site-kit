@@ -2,9 +2,9 @@
 
 namespace Snappysnail\LaravelSiteKit;
 
+use Snappysnail\LaravelSiteKit\Commands\LaravelSiteKitCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Snappysnail\LaravelSiteKit\Commands\LaravelSiteKitCommand;
 
 class LaravelSiteKitServiceProvider extends PackageServiceProvider
 {
